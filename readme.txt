@@ -12,10 +12,10 @@ Allows the administrator make users featured. All it does is give the user a cus
 
 == Description ==
 
-While working on a custom WordPress theme we needed the ability to feature users / authors. So we created this plugin which allows the administrator to easily star (featured) users. Then using a custom query in the theme we where able to get only the featured users by only retrieving users with the custom user meta “jsfeatured_user”. The plugin dosent make any chanages to your current theme it only does the following:
+While working on a custom WordPress theme we needed the ability to feature users / authors. So we created this plugin which allows the administrator to easily star (featured) users. Then using a custom query in the theme we where able to get only the featured users by only retrieving users with the custom user meta &quot;jsfeatured_user&quot;. The plugin dosent make any chanages to your current theme it only does the following:
 
 1. Adds a featured column in the Users panel of the WordPress Admin
-2. When a user is featured the plugin adds or updates the custom filed “jsfeatured_user” and sets the value to yes.
+2. When a user is featured the plugin adds or updates the custom filed &quot;jsfeatured_user&quot; and sets the value to yes.
 
 Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
 
