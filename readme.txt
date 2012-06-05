@@ -21,7 +21,7 @@ Feel free to use and include in your WordPress Installs, please think of us if y
 
 == Installation ==
 
-1. Download the featured-users.zip file to your computer.
+1. Download the featured-users-wordpress-plugin.zip file to your computer.
 1. Unzip the file.
 1. Upload the `featured-users-wordpress-plugin` folder to your `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
