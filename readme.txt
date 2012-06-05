@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Jeremy Selph
+Contributors: jeremyselph
 Donate link: http://www.reactivedevelopment.net/snippets/featured-users/
 Tags: users, featured
 Requires at least: 3.1.1
