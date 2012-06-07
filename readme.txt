@@ -17,7 +17,9 @@ While working on a custom WordPress theme we needed the ability to feature users
 1. Adds a featured column in the Users panel of the WordPress Admin
 2. When a user is featured the plugin adds or updates the custom filed &quot;jsfeatured_user&quot; and sets the value to yes.
 
-Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!! info@reactivedevelopment.net
+Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
+
+For Plugin and Theme development requets email us at info@reactivedevelopment.net or go here http://www.reactivedevelopment.net/. If you have questions or requests for this plugin go here http://wordpress.org/support/plugin/featured-users-wordpress-plugin for quick and free support or message us here http://www.reactivedevelopment.net/contact/send-message/ for paid support.
 
 == Installation ==
 
