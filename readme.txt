@@ -19,7 +19,7 @@ While working on a custom WordPress theme we needed the ability to feature users
 
 Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
 
-For Plugin and Theme development requets email us at info@reactivedevelopment.net or go here http://www.reactivedevelopment.net/. If you have questions or requests for this plugin go here http://wordpress.org/support/plugin/featured-users-wordpress-plugin for quick and free support or message us here http://www.reactivedevelopment.net/contact/send-message/ for paid support.
+For Plugin and Theme development requets email us at info@reactivedevelopment.net or go here http://www.reactivedevelopment.net/. If you have questions or requests for this plugin go here http://wordpress.org/support/plugin/featured-users-wordpress-plugin for quick and paid support message us here http://www.reactivedevelopment.net/contact/send-message/.
 
 == Installation ==
 
