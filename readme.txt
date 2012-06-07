@@ -3,7 +3,7 @@ Contributors: jeremyselph
 Donate link: http://www.reactivedevelopment.net/snippets/featured-users/
 Tags: users, featured
 Requires at least: 3.1.1
-Tested up to: 3.3.2
+Tested up to: 3.4.0
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,7 +17,7 @@ While working on a custom WordPress theme we needed the ability to feature users
 1. Adds a featured column in the Users panel of the WordPress Admin
 2. When a user is featured the plugin adds or updates the custom filed &quot;jsfeatured_user&quot; and sets the value to yes.
 
-Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
+Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!! info@reactivedevelopment.net
 
 == Installation ==
 
